@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello Nidhi !</title>
+<title>Hello Nidhi Shukla!</title>
 </head>
 <body>
 	<h1>Hello World!</h1>
